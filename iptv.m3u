@@ -167,8 +167,6 @@ https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playl
 http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 group-title="Авто",Cars.TV (ENG)
 https://dvrfl04.tulix.tv/teleup-carstv/mpegts
-#EXTINF:-1 group-title="Авто",АвтоПлюс
-http://31.57.108.245:8080/9.03.2026community_content1_6.m3u8
 
 # --- КАТЕГОРИЯ: КИНО ---
 #EXTINF:-1 group-title="Кино",Дом Кино
