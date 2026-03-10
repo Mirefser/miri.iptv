@@ -1,6 +1,8 @@
 #EXTM3U
 
 # --- КАТЕГОРИЯ: АЗЕРБАЙДЖАНСКОЕ ---
+#EXTINF:-1 group-title="Азербайджанское",AяzTV
+http://flussonic.izone.az:80/aztv/index.m3u8
 #EXTINF:-1 group-title="Азербайджанское",AzTV
 http://flussonic.izone.az:80/aztv/index.m3u8
 #EXTINF:-1 group-title="Азербайджанское",Ictimai TV
