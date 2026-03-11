@@ -1,8 +1,6 @@
 #EXTM3U
 
 # --- КАТЕГОРИЯ: АЗЕРБАЙДЖАНСКОЕ ---
-#EXTINF:-1 group-title="Азербайджанское",AяzTV
-http://flussonic.izone.az:80/aztv/index.m3u8
 #EXTINF:-1 group-title="Азербайджанское",AzTV
 http://flussonic.izone.az:80/aztv/index.m3u8
 #EXTINF:-1 group-title="Азербайджанское",Ictimai TV
@@ -110,7 +108,7 @@ http://flussonic.izone.az:80/rbk/index.m3u8
 #EXTINF:-1 group-title="Новости",Euronews
 http://flussonic.izone.az:80/euronews/mono.m3u8
 #EXTINF:-1 group-title="Новости",Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+https://vgtrksmotrim.cdnvideo.ru/hls/moscow_24/playlist.m3u8?md5=fp_CXB-G_xxgivQVP5BQ4A&e=1773251175
 #EXTINF:-1 group-title="Новости",RTД (Doc)
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="Новости",BBC World News
@@ -122,7 +120,7 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 group-title="Развлекательное",ТНТ
 http://flussonic.izone.az:80/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",СТС
-http://flussonic.izone.az:80/ctc/index.m3u8
+http://flussonic.izone.az/ctc/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",Пятница!
 http://flussonic.izone.az:80/pyatnicha/index.m3u8
 #EXTINF:-1 group-title="Развлекательное",ТНТ4
@@ -175,8 +173,8 @@ https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 # --- КАТЕГОРИЯ: КИНО ---
 #EXTINF:-1 group-title="Кино",Дом Кино
 http://flussonic.izone.az:80/domkino/index.m3u8
-#EXTINF:-1 group-title="Кино",TV1000
-http://flussonic.izone.az:80/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино",Viju TV1000
+http://flussonic.izone.az/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://flussonic.izone.az:80/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
